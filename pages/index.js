@@ -1,5 +1,5 @@
-import Counter from '../components/counter'
+import Contador from '../components/contador'
 
-const IndexPage = () => <Counter />
+const IndexPage = () => <Contador />
 
 export default IndexPage
